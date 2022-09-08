@@ -16,6 +16,8 @@ in VM option under 'Runner' configuration
 -Dspring-boot.run.fork=false
 ```
 
+#### Set to Jdk 1.8 in intelliJ at all places.
+
 <br/>
 
 ###pom.xml
